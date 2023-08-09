@@ -24,4 +24,4 @@ Transfer Market Scraper
 <p>For any questions or feedback, contact <a href="mailto:hamza.elmaataoui2023@gmail.com">hamza.elmaataoui2023@gmail.com</a>.</p>
 
 <strong>License:</strong>
-<p>This project is open-source under the MIT License. See 'LICENSE' file for details.</p>
+<p>This project is open-source under the MIT License.</p>
