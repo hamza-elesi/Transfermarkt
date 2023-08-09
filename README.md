@@ -1,29 +1,27 @@
-# Transfermarkt
-Player transfers in the market are being scraped 2023
-
 Transfer Market Scraper
 
-Description:
-This is a Python script that scrapes transfer player information from the Transfermarkt website and stores it in a CSV file.
+<strong>Description:</strong>
+<p>This is a Python script that scrapes transfer player information from the Transfermarkt website and stores it in a CSV file.</p>
 
-Usage:
-1. Install Python 3.x if you haven't already.
-2. Install the required libraries using: `pip install beautifulsoup4 pandas requests`
-3. Download the 'scraper.py' file.
-4. Open a terminal or command prompt.
-5. Navigate to the directory where 'scraper.py' is located.
-6. Run the script using: `python scraper.py`
-7. The scraped data will be saved in a CSV file named 'transfer_data.csv' in the same directory.
+<strong>Usage:</strong>
+<ol>
+  <li>Install Python 3.x if you haven't already.</li>
+  <li>Install the required libraries using: <code>pip install beautifulsoup4 pandas requests</code></li>
+  <li>Download the 'scraper.py' file.</li>
+  <li>Open a terminal or command prompt.</li>
+  <li>Navigate to the directory where 'scraper.py' is located.</li>
+  <li>Run the script using: <code>python scraper.py</code></li>
+  <li>The scraped data will be saved in a CSV file named 'transfer_data.csv' in the same directory.</li>
+</ol>
 
-Note:
-- Modify the 'base_url' and 'total_pages' variables in the 'scraper.py' script to customize your scraping preferences.
+<strong>Note:</strong>
+<p>Modify the 'base_url' and 'total_pages' variables in the 'scraper.py' script to customize your scraping preferences.</p>
 
-Contributing:
-Contributions are welcome! If you find any issues or improvements, feel free to reach out or make changes.
+<strong>Contributing:</strong>
+<p>Contributions are welcome! If you find any issues or improvements, feel free to reach out or make changes.</p>
 
-Contact:
-For any questions or feedback, contact [Your Email Address].
+<strong>Contact:</strong>
+<p>For any questions or feedback, contact <a href="mailto:hamza.elmaataoui2023@gmail.com">hamza.elmaataoui2023@gmail.com</a>.</p>
 
-License:
-This project is open-source under the MIT License. See 'LICENSE' file for details.
-
+<strong>License:</strong>
+<p>This project is open-source under the MIT License. See 'LICENSE' file for details.</p>
