@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <h1>Transfer Players Dashboard - 2023<h1>
-</head>
 <body>
     <h1>Transfer Players Dashboard - 2023</h1>
     <p>Welcome to the Transfer Players Dashboard project! This repository contains Python code to scrape player transfer data from transfermarkt.com in 2023, perform data cleaning, and visualize the data using a dashboard built with Dash.</p>
