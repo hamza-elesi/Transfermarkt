@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Transfer Players Dashboard - 2023</title>
+    <h1>Transfer Players Dashboard - 2023<h1>
 </head>
 <body>
     <h1>Transfer Players Dashboard - 2023</h1>
